@@ -1,10 +1,10 @@
-package tienda.Application;
+package com.bellaLuna.App;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class AppApplicationTests {
 
 	@Test
 	void contextLoads() {
